@@ -1,0 +1,5 @@
+{
+  "name": "最大流问题AI可视化",
+  "description": "Interactive Maximum Flow algorithm visualizer using the Double Labeling method, featuring AI-assisted graph generation and explanation.",
+  "requestFramePermissions": []
+}
